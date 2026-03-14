@@ -1,0 +1,12 @@
+node_modules
+artifacts
+cache
+package-lock.json
+.deps
+.env
+bin
+.openzeppelin
+.DS_Store
+.history
+.VSCodeCounter
+contracts/NFT/MultiMint2.sol
